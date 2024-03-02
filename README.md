@@ -1,4 +1,5 @@
 <h1>싸강두천 - 천재들의 싸움은 외나무다리에서 피어난다</h1>
+
 ![7F0AEFB8-A632-45F3-9FF6-B967CF1BC7C5__1_](https://github.com/CactusKK/SSaGangDoChun/assets/96397822/2c84ab84-f435-4f8f-aaf6-abdb5a740b99)
 
 
@@ -128,7 +129,7 @@ JAVA, SpringBoot, Spring Security, Spring JPA, JWT, SWAGGER, MySQL
 
 <h2>팀원 소개</h2>
 
-![image](/uploads/f658dea0fa5833f2ed2e31d1db05643c/image.png) | ![image](/uploads/0a09f8ffc401ea132e090c2b446be411/image.png) | ![image](/uploads/2baf8180ec158463bdb661f5099369bf/image.png) | ![image](/uploads/5eb7c7a249286c2afd421ccf50986624/image.png) |![image](/uploads/c7dc3ab730e1d99eaccd750e1e557aea/image.png) | ![image](/uploads/f13d774098ff8d15aaf9971f06e17a1a/image.png)|
+ ![유수안](https://github.com/CactusKK/SSaGangDoChun/assets/96397822/0f4833ae-6665-4587-9265-45e6dcfb2ca0) | ![홍지은](https://github.com/CactusKK/SSaGangDoChun/assets/96397822/474f4c3a-5f7c-4171-ab78-4f3636656134) | ![김태범](https://github.com/CactusKK/SSaGangDoChun/assets/96397822/975f3aae-4c0c-4744-aced-18db8903c6c0) | ![qkrguscns](https://github.com/CactusKK/SSaGangDoChun/assets/96397822/6058d5ef-855b-49fd-a9a9-d639793ad11f) | ![오화석](https://github.com/CactusKK/SSaGangDoChun/assets/96397822/6976130c-dbf9-40f4-aa5d-bf9235158a22) | ![전우리](https://github.com/CactusKK/SSaGangDoChun/assets/96397822/1cc0fc44-74a9-4283-8d42-979f8b695154) |
  :---------:|:----------:|:---------:|:---------:|:----------:|:----------:
  유수안 | 홍지은 | 김태범 | 박현춘 | 오화석 | 전우리 |
  팀장/BE | 부팀장/FE | 팀원/FE | 팀원/BE | 팀원/FE | 팀원/BE |
